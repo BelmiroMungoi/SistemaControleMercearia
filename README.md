@@ -1,2 +1,2 @@
 # SistemaControleMercearia
-Sistema de gestão de uma mercearia
+Sistema de gestão de uma mercearia.
